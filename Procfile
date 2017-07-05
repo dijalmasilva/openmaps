@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -Dspring.profiles.active=pro -jar target/openmaps-file-osm-0.0.1-SNAPSHOT.war
